@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
-* [GitBook 简介](gitbook-intro.md)
+* [First Chapter](docs/chapter1.md)
+* [GitBook 简介](docs/gitbook-intro.md)
 
