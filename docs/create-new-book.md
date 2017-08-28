@@ -32,7 +32,7 @@
 
 ## 2. 开始编辑
 
-点击 “Edit your book” 按钮，即进入了在线编辑的页面。
+点击 “Edit your book” 按钮，即进入了在线编辑的页面，更多细节可以查看 [GitBook 在线编辑页](about-edit-page.md) 一节。
 
 ## 3. 自己的书籍列表
 
