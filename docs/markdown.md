@@ -51,6 +51,9 @@ GitBook 默认使用 Markdown 来写文档。如果你对 Markdown 语法不熟�
 ![](http://upload-images.jianshu.io/upload_images/259-0ad0d0bfc1c608b6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ```
 
+![](/assets/helinjiang-logo.jpg)
+
+
 ### 1.4 文字引用
 
 单行引用请用 `>`。
