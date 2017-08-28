@@ -3,7 +3,7 @@
 ## 关于 GitBook
 [GitBook](https://www.gitbook.com/) helps your team write, collaborate and publish content online.
 
-GitBook 是可以免费使用，不限制发布的书数量，但是最多支持 5 位协作者，并且所有的书籍都是公开的。当然你也可以通过 [付费](https://www.gitbook.com/pricing)来获得更多的服务。
+GitBook 是可以免费使用，不限制发布的书数量，但是最多支持 5 位协作者，并且所有的书籍都是公开的。当然你也可以通过 [付费](https://www.gitbook.com/pricing) 来获得更多的服务。
 
 ## 文档目标
 
