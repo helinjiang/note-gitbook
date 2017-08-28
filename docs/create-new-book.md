@@ -20,7 +20,7 @@
 
 ![](/assets/create_new_book_template.jpg)
 
-点击 “Create Book” 按钮之后，书籍就创建成功了，并自动进入下面的页面： https://www.gitbook.com/book/helinjiang/learn-gitbook/welcome，url中的 `learn-gitbook` 即是前面填写 `title` 时自动生成的。
+点击 “Create Book” 按钮之后，书籍就创建成功了，并自动进入下面的页面： https://www.gitbook.com/book/helinjiang/learn-gitbook/welcome ，url中的 `learn-gitbook` 即是前面填写 `title` 时自动生成的。
 
 ![](/assets/create_new_book_success.jpg)
 
