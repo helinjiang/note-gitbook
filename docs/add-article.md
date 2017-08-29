@@ -30,7 +30,7 @@
 
 ## 3. Publish
 
-完成 “Publish” 操作之后，我们回到项目首页 （https://www.gitbook.com/book/helinjiang/learn-gitbook/welcome），就可以看到 “Read” 按钮，点击之后就可以在线阅读了。
+完成 “Publish” 操作之后，我们回到项目首页 （ https://www.gitbook.com/book/helinjiang/learn-gitbook/welcome ），就可以看到 “Read” 按钮，点击之后就可以在线阅读了。
 
 ![](/assets/add_article_published.jpg)
 
