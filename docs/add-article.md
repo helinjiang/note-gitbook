@@ -32,7 +32,7 @@
 
 完成 “Publish” 操作之后，我们回到项目首页 （https://www.gitbook.com/book/helinjiang/learn-gitbook/welcome），就可以看到 “Read” 按钮，点击之后就可以在线阅读了。
 
-![](index_files/e12c1f12-1d72-498d-b85c-74f03b762766.png)
+![](/assets/add_article_published.jpg)
 
 但是也可能会看到正在转化中的提示，此时请稍微耐心等待。
 
